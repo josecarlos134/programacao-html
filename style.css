@@ -2,8 +2,17 @@ body{
     background: #cccccc
 }
 
+  em  strong{
+    
+    color: rgb(255, 0, 0);
+
+ }
+
 p {
     text-align: center;
+}
+
+h1{text-align: center;
 }
 
 strong{
